@@ -19,7 +19,6 @@
 - 🧔🏻 Reach me out through any of my socials!  
   
 
-<br/>  
 
 
 ## My Skill Set  
@@ -39,8 +38,6 @@
 <a href="https://www.unrealengine.com/en-US" target="_blank"><img style="margin: 10px" src="https://cms-assets.unrealengine.com/B8hDILAISampfm5yFOQA" alt="Unreal Engine" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="GitHub" height="50" /></a>  
 </div>
-
-
 
 </td></tr></table>  
 
