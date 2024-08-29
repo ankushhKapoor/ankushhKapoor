@@ -5,7 +5,7 @@
 ### <div align="center">Hey there! I'm Ankush !👨‍💻</div>  
   
 
-- 😀 I’m still a beginner.  
+- 😀 Still a beginner.  
   
 
 - 🚀 Feel free to explore my [Linked In](https://www.linkedin.com/in/ankushkapoor1626/).  
