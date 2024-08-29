@@ -1,5 +1,6 @@
-
-</div>  
+<div align="center">
+<img src="https://github.com/Ankush1626/Ankush1626/blob/main/LOGO.gif" align="center" style="width: 20%" />
+</div>    
   
 
 ### <div align="center">Hey there! I'm Ankush !👨‍💻</div>  
