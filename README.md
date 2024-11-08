@@ -13,8 +13,9 @@
 - 🚀 Feel free to explore my [Linked In](https://www.linkedin.com/in/ankushkapoor1626/).  
   
 
-- 📹Take a look at my [Instagram](https://www.instagram.com/ankushh.kapoor/), where I share moments from my personal life.  
+- 📹 Take a look at my [Instagram](https://www.instagram.com/ankushh.kapoor/), where I share moments from my personal life.  
   
+- 🖊️ Feel free to explore my [Blog Page](https://ankushhkapoor.wordpress.com/), where I share explanation of my code and projects.  
 
 - 🧔🏻 Reach me out through any of my socials!  
   
