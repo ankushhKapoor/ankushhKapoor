@@ -1,11 +1,11 @@
-<div align="center">
-<img src="https://github.com/Ankush1626/Ankush1626/blob/main/mario-working.gif" align="center" style="width: 100%" />
-</div>    
+
+### <div align="center">Hey there! I'm Ankush !👨‍💻</div>  
 
 <br/>
 
-### <div align="center">Hey there! I'm Ankush !👨‍💻</div>  
-  
+<div align="center">
+<img src="https://github.com/Ankush1626/Ankush1626/blob/main/mario-working.gif" align="center" style="width: 100%" />
+</div> 
 
 - 😀 Still a beginner.  
   
