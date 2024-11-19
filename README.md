@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Ankush1626/Ankush1626/blob/main/mario-working.gif" align="center" style="width: 90%" />
+<img src="https://github.com/Ankush1626/Ankush1626/blob/main/mario-working.gif" align="center" style="width: 100%" />
 </div>    
 
 <br/>
