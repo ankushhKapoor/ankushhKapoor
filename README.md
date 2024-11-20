@@ -1,5 +1,9 @@
 
-### <div align="center">Hey there! I'm Ankush !👨‍💻</div>  
+<h1 align="center"><samp>Hi 👋 I'm Ankush </samp> <img src="https://github.com/Ankush1626/Ankush1626/blob/main/mario_hello_big.gif" width="22px" height="22px"> </h1> 
+
+<br/>
+
+<h3 align="center"><samp>A software developer from India</samp> </h3>
 
 <br/>
 
