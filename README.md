@@ -43,7 +43,6 @@
 
 </td></tr></table>    
 
-<br/>
 
 # <span style="font-size: 2em;"><samp>Connect With Me</samp></span>
 <div align="center">
