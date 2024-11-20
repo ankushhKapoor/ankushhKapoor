@@ -21,7 +21,7 @@
   
 <br/>
 
-## <span style="font-size: 2em;"><samp>My Skill Set</samp></span>
+## <span><samp>My Skill Set</samp></span>
 
 <table><tr><td valign="top" width=100%">
 
