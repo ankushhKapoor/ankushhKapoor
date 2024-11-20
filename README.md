@@ -13,10 +13,10 @@
 
 <br/>
 
-- 😀&nbsp;<samp>Still a beginner.</samp>  
-- 🚀&nbsp;<samp>Exploring the world of development one project at a time.</samp>  
-- 🧑🏻‍💻&nbsp;<samp>Always eager to tackle challenges and learn new technologies.</samp>  
-- 🧔🏻&nbsp;<samp>Reach me out through any of my socials!</samp>  
+- 😀&nbsp;<h5><samp>Still a beginner.</samp></h5>  
+- 🚀&nbsp;<h5><samp>Exploring the world of development one project at a time.</samp></h5>  
+- 🧑🏻‍💻&nbsp;<h5><samp>Always eager to tackle challenges and learn new technologies.</samp></h5>  
+- 🧔🏻&nbsp;<h5><samp>Reach me out through any of my socials!</samp></h5>  
   
 <br/>
 
