@@ -1,5 +1,5 @@
 
-<h1 align="center"><samp>Hi 👋 I'm Ankush </samp> <img src="https://github.com/Ankush1626/Ankush1626/blob/main/mario_hello_big.gif" width="22px" height="22px"> </h1> 
+# <samp>Hi 👋 I'm Ankush </samp> <img src="https://github.com/Ankush1626/Ankush1626/blob/main/mario_hello_big.gif" width="30px" height="30px">
 
 <br/>
 
