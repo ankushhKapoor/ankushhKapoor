@@ -13,13 +13,10 @@
 
 <br/>
 
-- 😀 Still a beginner.  
-  
-- 🚀 Exploring the world of development one project at a time.
-  
-- 🧑🏻‍💻 Always eager to tackle challenges and learn new technologies.
-
-- 🧔🏻 Reach me out through any of my socials!  
+- 😀&nbsp;<samp>Still a beginner.</samp>  
+- 🚀&nbsp;<samp>Exploring the world of development one project at a time.</samp>  
+- 🧑🏻‍💻&nbsp;<samp>Always eager to tackle challenges and learn new technologies.</samp>  
+- 🧔🏻&nbsp;<samp>Reach me out through any of my socials!</samp>  
   
 <br/>
 
