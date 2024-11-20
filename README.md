@@ -21,7 +21,7 @@
 
 # <span style="font-size: 2em;"><samp>My Skill Set</samp></span>
 
-<table style="margin: 0 auto;">
+<table>
   <tr>
     <td valign="top" align="center" width="100%">
       <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
@@ -59,7 +59,6 @@
     </td>
   </tr>
 </table>
-
 
 # <span style="font-size: 2em;"><samp>Connect With Me</samp></span>
 <div align="center">
