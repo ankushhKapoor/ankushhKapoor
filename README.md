@@ -11,14 +11,17 @@
 
 <br>
 
-- 😀&nbsp;<span style="font-size: 1.5em;"><samp>Still a beginner.</samp></span>  
+- 😀&nbsp;<span style="font-size: 1.5em;"><samp>Still a beginner.</samp></span>
+  
 - 🚀&nbsp;<span style="font-size: 1.5em;"><samp>Exploring the world of development one project at a time.</samp></span>  
+
 - 🧑🏻‍💻&nbsp;<span style="font-size: 1.5em;"><samp>Always eager to tackle challenges and learn new technologies.</samp></span>  
+
 - 🧔🏻&nbsp;<span style="font-size: 1.5em;"><samp>Reach me out through any of my socials!</samp></span>
 
 # <span style="font-size: 2em;"><samp>My Skill Set</samp></span>
 
-<table>
+<table style="margin: 0 auto;">
   <tr>
     <td valign="top" align="center" width="100%">
       <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
@@ -56,6 +59,7 @@
     </td>
   </tr>
 </table>
+
 
 # <span style="font-size: 2em;"><samp>Connect With Me</samp></span>
 <div align="center">
