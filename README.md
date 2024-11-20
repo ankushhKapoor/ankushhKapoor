@@ -9,6 +9,7 @@
   <img src="https://github.com/Ankush1626/Ankush1626/blob/main/mario-working.gif" align="center" style="width: 100%" />
 </div>
 
+<br>
 
 - 😀&nbsp;<span style="font-size: 1.5em;"><samp>Still a beginner.</samp></span>  
 - 🚀&nbsp;<span style="font-size: 1.5em;"><samp>Exploring the world of development one project at a time.</samp></span>  
