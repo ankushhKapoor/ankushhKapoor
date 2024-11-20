@@ -18,7 +18,9 @@
 - 🧑🏻‍💻&nbsp;<span style="font-size: 1.5em;"><samp>Always eager to tackle challenges and learn new technologies.</samp></span>  
 - 🧔🏻&nbsp;<span style="font-size: 1.5em;"><samp>Reach me out through any of my socials!</samp></span>  
 
-## <span style="font-size: 2em;"><samp>My Skill Set</samp></span>
+<br/>
+
+# <span style="font-size: 2em;"><samp>My Skill Set</samp></span>
 
 <table><tr><td valign="top" width=100%">
 
