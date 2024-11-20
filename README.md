@@ -12,8 +12,11 @@
 </div> 
 <br/>
 - 😀&nbsp;<span style="font-size: 1.5em;"><samp>Still a beginner.</samp></span>  
+
 - 🚀&nbsp;<span style="font-size: 1.5em;"><samp>Exploring the world of development one project at a time.</samp></span>  
+
 - 🧑🏻‍💻&nbsp;<span style="font-size: 1.5em;"><samp>Always eager to tackle challenges and learn new technologies.</samp></span>  
+
 - 🧔🏻&nbsp;<span style="font-size: 1.5em;"><samp>Reach me out through any of my socials!</samp></span>  
 
 <br/>
