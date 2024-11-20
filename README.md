@@ -19,7 +19,7 @@
 
 - 🧔🏻&nbsp;<span style="font-size: 1.5em;"><samp>Reach me out through any of my socials!</samp></span>
 
-# <span style="font-size: 2em;"><samp>My Skill Set</samp></span>
+# <span><samp>My Skill Set</samp></span>
 
 <table>
   <tr>
@@ -60,7 +60,7 @@
   </tr>
 </table>
 
-# <span style="font-size: 2em;"><samp>Connect With Me</samp></span>
+# <span><samp>Connect With Me</samp></span>
 <div align="center">
   <a href="https://github.com/Ankush1626" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
