@@ -24,7 +24,7 @@
 
 # <span style="font-size: 2em;"><samp>My Skill Set</samp></span>
 
-<table><tr><td valign="top" width=100%">
+<table><tr><td valign="top" align="center" width=100%">
 
 ###    
 <div>
