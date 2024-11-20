@@ -52,9 +52,6 @@
 <a href="https://instagram.com/ankushh.kapoor" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-<a href="https://ankushhkapoor.wordpress.com" target="_blank">
-<img src=https://img.shields.io/badge/TechBlog-%2324292e.svg&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
 </div>  
 
   
