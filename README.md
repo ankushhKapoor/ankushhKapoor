@@ -3,7 +3,7 @@
   <img src="https://github.com/Ankush1626/Ankush1626/blob/main/mario_hello_big.gif" width="40px" height="40px">
 </h1>
 
-<h3 align="center"><samp>A software developer from India</samp> </h3>
+<h3 align="center"><samp>Aspiring software developer from India</samp> </h3>
 
 <div align="center">
   <img src="https://github.com/Ankush1626/Ankush1626/blob/main/mario-working.gif" align="center" style="width: 100%" />
