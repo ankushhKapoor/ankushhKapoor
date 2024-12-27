@@ -21,7 +21,7 @@
 
 # <span><samp>My Skill Set</samp></span>
 
-<table>
+<table align="center">
   <tr>
     <td valign="top" align="center" width="100%">
       <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
