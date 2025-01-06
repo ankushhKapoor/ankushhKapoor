@@ -76,4 +76,3 @@
   </a>  
 </div>  
 
-##Trying Git for first time i..e clone and other stuff
