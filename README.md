@@ -19,49 +19,74 @@
 
 - 🧔🏻&nbsp;<span style="font-size: 1.5em;"><samp>Reach me out through any of my socials!</samp></span>
 
-# <span><samp>My Skill Set</samp></span>
+# <span><samp>💻 My Skill Set</samp></span>
 
+
+<div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-    <td valign="top" align="center" width="100%">
-      <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-        </a>
-        <a href="https://www.python.org/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-        </a>
-        <a href="https://www.w3schools.com/c/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
-        </a>
-        <a href="https://www.w3schools.com/css/" target="_blank">
-          <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg" alt="CSS" height="50" />
-        </a>  
-        <a href="https://www.tailwindcss.com/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
-        </a>
-        <a href="https://www.javascript.com/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-        </a>    
-        <a href="https://opencv.org/" target="_blank">
-            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />
-        </a>  
-        <a href="https://www.mysql.com/" target="_blank">
-            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-        </a>  
-        <a href="https://www.linux.org/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-        </a>
-        <a href="https://www.unrealengine.com/en-US" target="_blank">
-          <img style="margin: 10px" src="https://cms-assets.unrealengine.com/B8hDILAISampfm5yFOQA" alt="Unreal Engine" height="50" />
-        </a>  
-        <a href="https://github.com/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="GitHub" height="50" />
-        </a>
-      </div>
+    <td align="center"  width="100">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
     </td>
-  </tr>
+    <td align="center"  width="100">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" width="48" height="48" alt="HTML5" />
+      <br>C
+    </td>
+    <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center" width="100">
+        <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" width="48" height="48" alt="css" />
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+        <img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="icon" width="65" height="65" />
+      <br>Open CV
+    </td>
+    <td align="center"  width="100">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>My SQL
+    </td>
+       <td align="center" width="100"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+       <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    </td>
+            <td align="center" width="100">
+        <img src="https://cms-assets.unrealengine.com/B8hDILAISampfm5yFOQA" width="48" height="48" alt="Unreal Engine" />
+      <br>Unreal Engine
+    </td>
+    </td>
+            <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linu" />
+      <br>Linux
+    </td>
+     <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="linu" />
+      <br>Windows
+    </td>          
+ </tr>
 </table>
+<br><br>
+</div>
 
 # <span><samp>Connect With Me</samp></span>
 <div align="center">
