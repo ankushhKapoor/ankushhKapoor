@@ -18,8 +18,9 @@
 
 # <div style="text-align: center;"><span><samp>💻 My Skill Set</samp></span></div>
 
+<br>
 
-<div style="display: flex; justify-content: center; overflow: hidden;">
+<div align="center" style="display: flex; justify-content: center; overflow: hidden;">
   <table style="width: 100%; table-layout: fixed; border-spacing: 10px;">
     <!-- First Row -->
     <tr>
@@ -86,7 +87,7 @@
   </table>
 </div>
 
-
+<br>
 
 # <div style="text-align: center;"><span><samp>🌐 Connect With Me</samp></span></div>
 <div align="center">
