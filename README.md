@@ -88,7 +88,7 @@
         </div>
       </td>
       <td style="text-align: center; width: 8%; vertical-align: middle;">
-        <div style="display: flex; flex-direction: column; align-items: center;">
+        <div style="display: flex; flex-direction: column; align-items: center; word-wrap: break-word;">
           <img src="https://cms-assets.unrealengine.com/B8hDILAISampfm5yFOQA" width="45" height="45" alt="Unreal Engine" />
           <br>Unreal Engine
         </div>
