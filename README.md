@@ -33,7 +33,7 @@
       <td style="text-align: center; width: 12%; vertical-align: middle; word-wrap: break-word;">
         <div style="display: flex; flex-direction: column; align-items: center;">
           <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" width="48" height="48" alt="C" />
-          <br>C
+          <br>   C
         </div>
       </td>
       <td style="text-align: center; width: 12%; vertical-align: middle; word-wrap: break-word;">
@@ -78,7 +78,7 @@
       <td style="text-align: center; width: 12%; vertical-align: middle; word-wrap: break-word;">
         <div style="display: flex; flex-direction: column; align-items: center;">
           <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-          <br>Git
+          <br>  Git
         </div>
       </td>
       <td style="text-align: center; width: 12%; vertical-align: middle; word-wrap: break-word;">
@@ -89,14 +89,14 @@
       </td>
       <td style="text-align: center; width: 12%; vertical-align: middle; word-wrap: break-word;">
         <div style="display: flex; flex-direction: column; align-items: center;">
-          <img src="https://cms-assets.unrealengine.com/B8hDILAISampfm5yFOQA" width="45" height="45" alt="Unreal Engine" />
-          <br>Unreal Engine
+          <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+          <br>VsCode
         </div>
       </td>
       <td style="text-align: center; width: 12%; vertical-align: middle; word-wrap: break-word;">
         <div style="display: flex; flex-direction: column; align-items: center;">
-          <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-          <br>VsCode
+          <img src="https://cms-assets.unrealengine.com/B8hDILAISampfm5yFOQA" width="45" height="45" alt="Unreal Engine" />
+          <br>Unreal Engine
         </div>
       </td>
       <td style="text-align: center; width: 12%; vertical-align: middle; word-wrap: break-word;">
