@@ -20,26 +20,6 @@
 
 <br>
 
-<h1 align="center">
-  <samp>Hi👋 I'm Ankush</samp> 
-  <img src="https://github.com/Ankush1626/Ankush1626/blob/main/mario_hello_big.gif" width="40px" height="40px">
-</h1>
-
-<h3 align="center"><samp>Aspiring software developer from India</samp></h3>
-
-<div align="center">
-  <img src="https://github.com/Ankush1626/Ankush1626/blob/main/mario-working.gif" align="center" style="width: 100%" />
-</div>
-
-<br>
-
-- 😀&nbsp;<span style="font-size: 1.5em;"><samp>Still a beginner.</samp></span>
-- 🚀&nbsp;<span style="font-size: 1.5em;"><samp>Exploring the world of development one project at a time.</samp></span>
-- 🧑🏻‍💻&nbsp;<span style="font-size: 1.5em;"><samp>Always eager to tackle challenges and learn new technologies.</samp></span>
-- 🧔🏻&nbsp;<span style="font-size: 1.5em;"><samp>Reach me out through any of my socials!</samp></span>
-
-<h3 align="center">💻 My Skill Set</h3>
-
 <table align="center" style="width: 100%; border-spacing: 10px;">
   <tr>
     <td align="center">
@@ -102,24 +82,6 @@
     </td>
   </tr>
 </table>
-
-<br>
-
-<h3 align="center">🌐 Connect With Me</h3>
-
-<div align="center">
-  <a href="https://github.com/Ankush1626" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/ankushkapoor1626" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://instagram.com/ankushh.kapoor" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
-  </a>  
-</div>
-
-
 <br>
 
 # <div align="center"><samp>🌐 Connect With Me</samp></div>
