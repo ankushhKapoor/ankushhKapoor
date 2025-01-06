@@ -51,7 +51,7 @@
       <td style="text-align: center; width: 8%; vertical-align: middle;">
         <div style="display: flex; flex-direction: column; align-items: center;">
           <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" width="48" height="48" alt="Tailwind CSS" />
-          <br style="word-wrap: break-word;">Tailwind CSS
+          <br>Tailwind CSS
         </div>
       </td>
       <td style="text-align: center; width: 8%; vertical-align: middle;">
@@ -114,7 +114,6 @@
     </tr>
   </table>
 </div>
-
 
 <br>
 
