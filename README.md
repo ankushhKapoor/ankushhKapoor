@@ -50,7 +50,7 @@
       </td>
       <td style="text-align: center; width: 12%; vertical-align: middle; word-wrap: break-word;">
         <div style="display: flex; flex-direction: column; align-items: center;">
-          <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" width="48" height="48" alt="Tailwind CSS" style="max-width: 100%;"/>
+          <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" width="48" height="48" alt="Tailwind CSS" style="max-width: 100%; margin-left: 10px;"/>
           <br>Tailwind CSS
         </div>
       </td>
@@ -95,7 +95,7 @@
       </td>
       <td style="text-align: center; width: 12%; vertical-align: middle; word-wrap: break-word;">
         <div style="display: flex; flex-direction: column; align-items: center;">
-          <img src="https://cms-assets.unrealengine.com/B8hDILAISampfm5yFOQA" width="45" height="45" alt="Unreal Engine" style="max-width: 100%;"/>
+          <img src="https://cms-assets.unrealengine.com/B8hDILAISampfm5yFOQA" width="45" height="45" alt="Unreal Engine" style="max-width: 100%; margin-left: 10px;"/>
           <br>Unreal Engine
         </div>
       </td>
