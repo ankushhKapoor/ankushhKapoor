@@ -69,7 +69,7 @@
       <br>VsCode
     </td>
     <td align="center">
-      <img src="https://cms-assets.unrealengine.com/B8hDILAISampfm5yFOQA" width="45" height="45" alt="Unreal Engine" />
+      <img src="https://cms-assets.unrealengine.com/AVzjeqAbLRKi3W5jq0CAvz/B8hDILAISampfm5yFOQA" width="45" height="45" alt="Unreal Engine" />
       <br>Unreal Engine
     </td>
     <td align="center">
@@ -87,7 +87,7 @@
 # <div align="center"><samp>🌐 Connect With Me</samp></div>
 
 <div align="center">
-  <a href="https://github.com/Ankush1626" target="_blank">
+  <a href="https://github.com/ankushhKapoor" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
   </a>
   <a href="https://linkedin.com/in/ankushkapoor1626" target="_blank">
