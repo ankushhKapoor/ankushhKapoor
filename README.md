@@ -51,11 +51,15 @@
       <br>JavaScript
     </td>
     <td align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" width="65" height="65" />
-      <br>OpenCV
+      <img src="https://github.com/ankushhKapoor/ankushhKapoor/blob/main/Assembly_logo.png" alt="Assembly" width="90" height="90"/>
+      <br>Assembly
     </td>
   </tr>
   <tr>
+    <td align="center">
+      <img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" width="65" height="65" />
+      <br>OpenCV
+    </td>
     <td align="center">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
       <br>MySQL
