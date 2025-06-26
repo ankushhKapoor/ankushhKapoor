@@ -47,23 +47,11 @@
       <br>Java
     </td>
     <td align="center">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://github.com/ankushhKapoor/ankushhKapoor/blob/main/Assembly_logo.png" alt="Assembly" width="90" height="90"/>
-      <br>Assembly
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" width="65" height="65" />
-      <br>OpenCV
-    </td>
-    <td align="center">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
       <br>MySQL
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
@@ -71,6 +59,10 @@
     <td align="center">
       <img src="https://camo.githubusercontent.com/dbe4ba9617b5f2b9c3c12682ab9b2c687078af1cd25a2f545461157d8e1e7401/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562" width="48" height="48" />
       <br>GitHub
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=neovim" width="48" height="48" alt="Neovim" />
+      <br>Neovim
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
@@ -95,6 +87,9 @@
 # <div align="center"><samp>🌐 Connect With Me</samp></div>
 
 <div align="center">
+  <a href="https://ankushhkapoor.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="margin-bottom: 5px;" />
+  </a>
   <a href="https://github.com/ankushhKapoor" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
   </a>
